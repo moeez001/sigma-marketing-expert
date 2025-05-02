@@ -34,4 +34,16 @@ This site is designed to showcase the agency’s services, engage visitors, and 
 ---
 
 ## 📂 Folder Structure
+sigma-marketing/
+├── index.html
+├── /assets
+│ ├── /css
+│ ├── /js
+│ └── /images
+├── /components (if modularized)
+├── README.md
+└── package.json (if using build tools)
+🙋‍♀️ Contact
+Made with 💼 by Sigma Marketing Expert
+For business inquiries: [moizhaider76@example.com]
 
